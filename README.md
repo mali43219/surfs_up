@@ -2,7 +2,11 @@
 
 CHALLENGE OVERVIEW
 
-    The Purpose of this challenge was to produce an analysis of temperature trends in Oahu before opening a surf shop. To determine the best prospective surf and ice cream shop location, a summary statistics of data were requested for the months of December and June. 
+    The Purpose of this challenge was to produce an analysis of temperature trends in Oahu before 
+    
+    opening a surf shop. To determine the best prospective surf and ice cream shop location, a summary 
+    
+    statistics of data were requested for the months of December and June. 
 
 
 RESULTS
@@ -17,4 +21,9 @@ RESULTS
 
 SUMMARY
 
-    While December has a bigger range of results, both months historically have the same weather patterns. Additional queries that could yield more results would be to run the difference in precipation, to determine which month has more rain. 
+   
+   While December has a bigger range of results, both months historically have the same weather 
+   
+   patterns. Additional queries that could yield more results would be to run the difference in 
+   
+   precipation, to determine which month has more rain. 
